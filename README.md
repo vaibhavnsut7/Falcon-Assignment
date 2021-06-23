@@ -6,5 +6,6 @@ Python Mudule Installation:
 3. pandas (used for visibility of our data)
 4. Numpy
 5. matplotlib.pyplot
-Runs on jupyter Notebook
+
+This project is a jupyter Notebook
 
