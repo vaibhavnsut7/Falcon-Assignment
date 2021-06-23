@@ -9,6 +9,6 @@ Python Mudule Installation:
 5. matplotlib.pyplot(used in Plotting graphs,bars)
 
 This project runs on jupyter Notebook.
-Query the data using GraphQL on Uniswap, Connect the GraphQL to python pandas using json by providing the URL of query.
-to visualize the data pandas module is used and basically the dataframe of pandas.
+Query the data using GraphQL on Uniswap, Connect the GraphQL to python using json in jupyter notebook( can be accessed through Anaconda) by providing the URL of query.
+To visualize the data pandas module is used and basically the dataframe of pandas.
 
