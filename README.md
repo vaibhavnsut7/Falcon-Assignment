@@ -8,5 +8,5 @@ Python Mudule Installation:
 4. Numpy
 5. matplotlib.pyplot(used in Plotting graphs,bars)
 
-This project runs on jupyter Notebook
+This project runs on jupyter Notebook.
 
